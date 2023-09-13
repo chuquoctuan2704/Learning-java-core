@@ -15,15 +15,15 @@ public class PrimitiveDataTypes {
     System.out.println("byteValue = " + byteValue);
     short shortValue = 32767;
     System.out.println("shortValue = " + shortValue);
-    int intValue = 2147483647; 
+    int intValue = 2147483647;
     System.out.println("intValue = " + intValue);
-    long longValue = 999999999 + 999999999; 
+    long longValue = 999999999 + 999999999;
     System.out.println("longValue = " + longValue);
 
-    float floatValue = 21474.123F; 
+    float floatValue = 21474.123F;
     System.out.println("floatValue = " + floatValue);
 
-    double doubleValue = 99999.123D; 
+    double doubleValue = 99999.123D;
     System.out.println("double = " + doubleValue);
   }
 }
