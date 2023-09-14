@@ -1,4 +1,4 @@
-package DataStruct.DimensionalArray;
+package DataStruct.TwoDimensionalArray;
 
 public class Main {
   public static void main(String[] args) {
